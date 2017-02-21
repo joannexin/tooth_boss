@@ -35,7 +35,7 @@ $ npm install
 
 ## Starting the App
 
-From the root directory, run ```npm start``` to start the server
+From the root directory, run ```npm start``` to start the server.
 Open another terminal, run ```npm run dev``` to start watching changes to any files and automatically recompiling.
 Navigate to ```http://localhost:8080```
 
